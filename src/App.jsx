@@ -5,7 +5,7 @@ import { Ground } from './Ground'
 
 export const App = () => {
   return (
-    <div className='h-screen w-screen flex justify-center bg-[#1A1A2E]'>
+    <div className='h-screen w-screen flex justify-center items-center bg-[#1A1A2E]'>
       <Ground />
     </div>
   )
